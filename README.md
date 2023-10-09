@@ -21,4 +21,7 @@ Uygulama Çalıştırma Adımları
 
    ![image](https://github.com/DemetErol/VendingMachine/assets/45537416/f095f945-9152-48bd-ae9b-71609c4ec0a1)
 
+   ![image](https://github.com/DemetErol/VendingMachine/assets/45537416/5945f1bd-5776-4c31-b080-9b0748e1f88a)
+
+
 
