@@ -1,0 +1,81 @@
+
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+*{
+  margin:auto;
+}
+
+body {
+background: radial-gradient(ellipse farthest-corner at left top, #f35464 30%, #841F4B 100%);
+height:auto;
+font-family: 'Raleway';
+color: #333;
+}
+
+.header{
+  color:#f35464;
+  font-size: 56px;
+  box-shadow: 1px 10px 30px -10px rgba(3, 3, 3, 0.5);
+  font-family: 'Indie Flower', cursive;  
+  overflow: hidden;
+  font-weight: normal;
+  background-color: #fff;
+  text-align: center; 
+  margin-bottom: 20px;
+}
+.label{
+  font-family: 'Indie Flower', cursive;
+  padding-left: 20px;
+}
+.img{
+  width: 100px;
+  height: 100px;
+}
+.box{
+  background-color: #fff;
+  box-shadow: 1px 10px 30px -10px rgba(3, 3, 3, 0.5);
+  font-weight: normal;
+  overflow: hidden;
+  text-align: center;
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.money{
+  font-family: 'Indie Flower', cursive;
+  padding-left: 20px;
+  text-align: left;
+  font-size: 20px;
+  color: #841F4B;
+}
+
+.buttons{
+  
+background: radial-gradient(ellipse farthest-corner at left top, #f35464 30%, #841F4B 100%);
+width: 50px;
+height: 50px;
+border-radius: 50%;
+border: 0;
+color: #fff;
+cursor: pointer;
+transition: box-shadow 500ms ease;
+margin-right: 2px;
+
+&:hover {
+box-shadow: 0 7px 30px #f35464;
+transition: box-shadow 500ms ease;
+}
+}
+
+.btn{
+color:#f35464;
+margin-right: 2px;
+margin-left: 5px;
+border: 1px solid #BFBFBF;
+
+&:hover {
+  border: 10;
+  box-shadow: 0 7px 30px #f35464;
+  transition: box-shadow 500ms ease;
+  }
+}
