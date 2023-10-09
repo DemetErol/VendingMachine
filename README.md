@@ -5,7 +5,7 @@ Vending Machine Application
 
 Uygulama Çalıştırma Adımları
 
-1. ws projesi Visual Studio Code ile açılır.
+1. Proje Visual Studio Code ile açılır.
 2. ws\src\main\java\com\project\ws\WsApplication.java dosyası çalıştırılır.
 3. http://localhost:8080/h2-console url açılır.
 
@@ -16,8 +16,12 @@ Uygulama Çalıştırma Adımları
 
  ![image](https://github.com/DemetErol/VendingMachine/assets/45537416/b7438f6f-8c77-4f1a-afad-cd336ab7445c)
 
-5. Yeni bir Visual Studio Code penceresinde VendingMachineApp projesi açılır.
-6. Terminalde cd project ve npm run dev komutları çalıştırılmalıdır.
+5. Yeni bir terminalde VendingMachineApp\project konumuna gidilir. (cd komutu ile)
+6. Terminalde npm install ve npm run dev komutları çalıştırılır.
+7. Aşağıdaki url açılır.
+
+ 
+   ![image](https://github.com/DemetErol/VendingMachine/assets/45537416/bf822c9c-57c4-4931-900b-de6bb8f86a87)
 
    ![image](https://github.com/DemetErol/VendingMachine/assets/45537416/f095f945-9152-48bd-ae9b-71609c4ec0a1)
 
